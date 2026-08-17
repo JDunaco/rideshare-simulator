@@ -1,3 +1,5 @@
+   ![Simulation results](simulation_summary.png)
+
 # Jordan's RideShare Simulator
 
 A discrete-event ride-sharing simulation that dynamically generates riders,
