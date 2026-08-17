@@ -1,6 +1,6 @@
-   ![Simulation results](simulation_summary.png)
-
 # Jordan's RideShare Simulator
+
+   ![Simulation results](simulation_summary.png)
 
 A discrete-event ride-sharing simulation that dynamically generates riders,
 dispatches the best available car using a Quadtree + Dijkstra matching
